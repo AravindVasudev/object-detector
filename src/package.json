@@ -1,0 +1,22 @@
+{
+  "name": "object-detector",
+  "version": "1.0.0",
+  "description": "A dead-simple object detector hacked using brain.js",
+  "scripts": {
+    "train": "node trainer/trainer.js",
+    "test": "node tester/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AravindVasudev/object-detector.git"
+  },
+  "author": "AravindVasudev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AravindVasudev/object-detector/issues"
+  },
+  "homepage": "https://github.com/AravindVasudev/object-detector#readme",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
+}

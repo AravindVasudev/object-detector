@@ -1,0 +1,6 @@
+# Dependency directories
+src/node_modules/
+
+# generate files
+src/dataset/*.csv
+src/model/model.json
