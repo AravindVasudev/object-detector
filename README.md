@@ -1,4 +1,4 @@
-#Object Detector
+# Object Detector
 A preposterous object detector hacked using brain.js. Check out the blog post to 
 know more about this demo:
 
